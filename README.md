@@ -17,3 +17,4 @@ Conteúdo:
 > biblia.txt - arquivo criado com o conteúdo de BIBLIA_COMPLETA.txt
 
     DESCRIÇÃO
+O programa faz o mapeamento do arquivo BIBLIA_COMPLETA.txt para a mem usando o mmap. Criar o arquivo biblia.txt e alterar para o tamanho do arquivo origem usando ftruncate, o programa mapeia biblia.txt para memoria. BIBLIA_COMPLETA.txt é copiado para biblia.txt utilizando memcpy. No final o programa desmapea os dois arquivos da memoria utilizando munmap.
