@@ -15,3 +15,5 @@ Conteúdo:
 > BIBLIA_COMPLETA.txt - Biblia em espanhol no formato de texto
 
 > biblia.txt - arquivo criado com o conteúdo de BIBLIA_COMPLETA.txt
+
+    DESCRIÇÃO
