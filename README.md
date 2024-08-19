@@ -10,6 +10,8 @@ gcc -o main main.c
 ./main
 
 Conteúdo:
-Main.c - Arquivo principal que faz a manipulação de memória e leitura e escrita dos arquivos.
-BIBLIA_COMPLETA.txt - Biblia em espanhol no formato de texto
-biblia.txt - arquivo criado com o conteúdo de BIBLIA_COMPLETA.txt
+> Main.c - Arquivo principal que faz a manipulação de memória e leitura e escrita dos arquivos.
+
+> BIBLIA_COMPLETA.txt - Biblia em espanhol no formato de texto
+
+> biblia.txt - arquivo criado com o conteúdo de BIBLIA_COMPLETA.txt
